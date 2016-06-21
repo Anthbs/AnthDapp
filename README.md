@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Lisk Apps SDK
 
 The official SDK for building blockchain apps on the [Lisk](https://lisk.io) platform.
@@ -37,3 +38,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 =======
 # AnthDapp
 >>>>>>> e663c29e5a43aaca340ec69dc191525e59890de9
+=======
+
+>>>>>>> a6ef5bf18e6db389ce2d06369250675a75e575f8
